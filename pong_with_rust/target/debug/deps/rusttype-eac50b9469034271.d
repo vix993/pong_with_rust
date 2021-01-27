@@ -1,0 +1,10 @@
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/rusttype-eac50b9469034271.rmeta: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/geometry.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/rasterizer.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/gpu_cache.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/librusttype-eac50b9469034271.rlib: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/geometry.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/rasterizer.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/gpu_cache.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/rusttype-eac50b9469034271.d: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/geometry.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/rasterizer.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/gpu_cache.rs
+
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/lib.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/geometry.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/rasterizer.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rusttype-0.8.3/src/gpu_cache.rs:

@@ -1,0 +1,10 @@
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/memoffset-349ed723aac897ce.rmeta: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/raw_field.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/offset_of.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/span_of.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/libmemoffset-349ed723aac897ce.rlib: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/raw_field.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/offset_of.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/span_of.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/memoffset-349ed723aac897ce.d: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/raw_field.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/offset_of.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/span_of.rs
+
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/lib.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/raw_field.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/offset_of.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.5.6/src/span_of.rs:

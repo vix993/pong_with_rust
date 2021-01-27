@@ -1,0 +1,10 @@
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/rls/debug/deps/gif-b0945e83ff1ee943.rmeta: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/rls/debug/deps/gif-b0945e83ff1ee943.d: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs
+
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/lib.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/traits.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/common.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/mod.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/reader/decoder.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.10.3/src/encoder.rs:

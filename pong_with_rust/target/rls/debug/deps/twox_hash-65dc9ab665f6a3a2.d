@@ -1,0 +1,9 @@
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/rls/debug/deps/twox_hash-65dc9ab665f6a3a2.rmeta: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/sixty_four.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/thirty_two.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/xxh3.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/std_support.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/rls/debug/deps/twox_hash-65dc9ab665f6a3a2.d: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/sixty_four.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/thirty_two.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/xxh3.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/std_support.rs
+
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/lib.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/sixty_four.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/thirty_two.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/xxh3.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/std_support.rs:

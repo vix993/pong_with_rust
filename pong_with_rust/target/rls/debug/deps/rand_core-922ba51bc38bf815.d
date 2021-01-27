@@ -1,0 +1,10 @@
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/rls/debug/deps/rand_core-922ba51bc38bf815.rmeta: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/rls/debug/deps/rand_core-922ba51bc38bf815.d: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs
+
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs:

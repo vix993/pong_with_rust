@@ -1,0 +1,11 @@
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/sid-474dbf34efca6f5d.rmeta: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_range.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_vector.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_list.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/libsid-474dbf34efca6f5d.rlib: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_range.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_vector.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_list.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/sid-474dbf34efca6f5d.d: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_range.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_vector.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_list.rs
+
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/lib.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_range.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_vector.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/sid-0.5.2/src/id_list.rs:

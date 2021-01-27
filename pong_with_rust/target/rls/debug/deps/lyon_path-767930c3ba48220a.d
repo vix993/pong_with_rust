@@ -1,0 +1,10 @@
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/rls/debug/deps/lyon_path-767930c3ba48220a.rmeta: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/events.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path_state.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/iterator.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/builder.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/rls/debug/deps/lyon_path-767930c3ba48220a.d: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/events.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path_state.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/iterator.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/builder.rs
+
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/lib.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/events.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path_state.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/path.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/iterator.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.13.2/src/builder.rs:

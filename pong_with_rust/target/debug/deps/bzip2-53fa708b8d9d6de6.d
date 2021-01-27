@@ -1,0 +1,11 @@
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/bzip2-53fa708b8d9d6de6.rmeta: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/mem.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/bufread.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/read.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/write.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/libbzip2-53fa708b8d9d6de6.rlib: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/mem.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/bufread.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/read.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/write.rs
+
+/Users/victornascimento/Documents/Projects/Rust/pong_with_rust/pong_with_rust/target/debug/deps/bzip2-53fa708b8d9d6de6.d: /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/lib.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/mem.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/bufread.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/read.rs /Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/write.rs
+
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/lib.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/mem.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/bufread.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/read.rs:
+/Users/victornascimento/.cargo/registry/src/github.com-1ecc6299db9ec823/bzip2-0.3.3/src/write.rs:
