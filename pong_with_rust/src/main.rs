@@ -91,7 +91,7 @@ impl event::EventHandler for MainState {
             randomize_vec(&mut self.ball_vel, BALL_SPEED, BALL_SPEED);
             self.player_two_score += 1;
         }
-        if self.ball_pos.x < screen_width {
+        if self.ball_pos.x > screen_width {
             self.ball_pos.x = screen_width * 0.5;
             self.ball_pos.y = screen_height * 0.5;
             randomize_vec(&mut self.ball_vel, BALL_SPEED, BALL_SPEED);
